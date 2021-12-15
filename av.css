@@ -2,6 +2,7 @@ body{
     background-image: url(back.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    min-width:(Width of your design)px;
 }
 .imgflash{
     text-align: center;
